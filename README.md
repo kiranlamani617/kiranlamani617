@@ -1,4 +1,4 @@
- 👋 Hi, I'm Kiranlamani
+** 👋 Hi, I'm kiranlamani**
 
 **AI/ML Engineer in the making | CSE student | Bengaluru, India**
 
